@@ -6,7 +6,7 @@ sections:
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
     section_id: hero
-    title: 'Dobrý den, jak Vám mohu pomoci?'
+    title: 'Dobrý den, jak Vám můžeme pomoci?'
     type: heroblock
   - component: portfolio_block.html
     layout_style: mosaic
