@@ -2,7 +2,7 @@
 title: Stánek pro GreenDoors
 subtitle: klientovi na míru
 date: '2019-05-10'
-thumb_img_path: /images/img_20190430_152425.jpg
+thumb_img_path: /images/stanek2_rozlozeny1.png
 content_img_path: ''
 layout: project
 ---
