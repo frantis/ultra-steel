@@ -1,6 +1,6 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
+title: O nás
+subtitle: 'Co, jak, proč a pro koho pracujeme'
 img_path: images/about.jpg
 menu:
   main:
