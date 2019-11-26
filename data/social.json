@@ -5,6 +5,11 @@
       "title": "Instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/milenialove_sro/"
+    },
+    {
+      "title": "youtube",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/channel/UClSDC4XWspo4J04lIqlZAEA"
     }
   ]
 }
