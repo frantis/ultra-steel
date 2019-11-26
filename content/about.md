@@ -4,7 +4,7 @@ subtitle: 'Co, jak, proč a pro koho pracujeme'
 img_path: images/about.jpg
 menu:
   main:
-    name: About
+    name: O nás
     weight: 4
 layout: page
 ---
