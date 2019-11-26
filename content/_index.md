@@ -13,7 +13,7 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     subtitle: An optional subtitle of the section
-    title: Recent Work
+    title: Dokončené projekty
     type: portfolioblock
     view_all_text: View All
     view_all_url: portfolio/index.html
@@ -57,25 +57,25 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
-    title: Testimonials
+    title: Reference
     type: testimonialsblock
   - actions:
-      - label: View Blog
+      - label: Navštívit blog
         url: blog/index.html
     component: posts_block.html
     num_posts_displayed: 2
     section_id: latest-posts
     subtitle: An optional subtitle of the section
-    title: Latest from the Blog
+    title: Náš blog
     type: postsblock
   - component: contact_block.html
     section_id: contact
     subtitle: An optional subtitle of the section
-    title: Contact Us
+    title: Kontaktujte nás
     type: contactblock
 menu:
   main:
-    name: Home
+    name: Domů
     weight: 1
 layout: home
 ---
