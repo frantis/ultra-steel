@@ -4,9 +4,6 @@ subtitle: Propagační stojánky pro platformu Spaceflow
 date: '2019-04-30'
 thumb_img_path: /images/bg.jpg
 content_img_path: /images/bg.jpg
-menu:
-  main:
-    weight: 2
 layout: project
 ---
 Musíte být vidět.

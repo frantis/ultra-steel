@@ -4,9 +4,6 @@ subtitle: klientovi na míru
 date: '2019-05-10'
 thumb_img_path: /images/stanek2_rozlozeny1.png
 content_img_path: ''
-menu:
-  main:
-    weight: 2
 layout: project
 ---
 ![Stánek Green doors](/images/img_20190430_152425.jpg "Stánek na čarodějnicích 2019 na Pankráci")
