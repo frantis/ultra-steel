@@ -12,10 +12,10 @@ sections:
     title: 'Dobrý den, jak Vám můžeme pomoci?'
     type: heroblock
   - component: portfolio_block.html
-    layout_style: mosaic
+    layout_style: tiles
     num_projects_displayed: 6
     section_id: latest-projects
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Dokončené projekty
     type: portfolioblock
     view_all_text: View All
@@ -45,15 +45,9 @@ sections:
           Typografie, grafický design, corporate design a tiskové technologie
           máme v malíčku.
         title: Grafický design a příprava tiskových dat
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Nabízené služby
     type: servicesblock
-  - component: testimonials_block.html
-    section_id: testimonials
-    subtitle: An optional subtitle of the section
-    testimonialslist: []
-    title: Reference
-    type: testimonialsblock
   - actions:
       - label: Navštívit blog
         url: blog/index.html
