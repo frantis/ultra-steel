@@ -49,11 +49,9 @@ sections:
     section_id: testimonials
     subtitle: An optional subtitle of the section
     testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+      - author: Alexandra Drozdová
+        avatar: /images/sch-full024-sq-1024x1024.jpg
+        content: Nejsem šťastná
       - author: Jane Roe
         avatar: images/jane_roe.jpg
         content: >-
