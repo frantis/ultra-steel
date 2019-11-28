@@ -3,8 +3,10 @@ title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      > People who are really serious about software should make their own
+      hardware.  
+
+      -Alan Kay, 1982
     section_id: hero
     title: 'Dobrý den, jak Vám můžeme pomoci?'
     type: heroblock
