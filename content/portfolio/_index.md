@@ -1,7 +1,7 @@
 ---
 title: Hotové projekty
-subtitle: This is an optional subtitle for the portfolio page.
-layout_style: mosaic
+subtitle: ''
+layout_style: tiles
 menu:
   main:
     name: Hotové projekty
