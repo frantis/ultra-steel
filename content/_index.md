@@ -6,6 +6,7 @@ sections:
       People who are really serious about software should make their own
       hardware.  
 
+
       -Alan Kay, 1982
     section_id: hero
     title: 'Dobrý den, jak Vám můžeme pomoci?'
