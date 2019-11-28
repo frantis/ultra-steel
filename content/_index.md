@@ -49,9 +49,9 @@ sections:
     section_id: testimonials
     subtitle: An optional subtitle of the section
     testimonialslist:
-      - author: Alexandra Drozdová
-        avatar: /images/sch-full024-sq-1024x1024.jpg
-        content: Nejsem šťastná
+      - author: John Doe
+        avatar: ''
+        content: Text
       - author: Jane Roe
         avatar: images/jane_roe.jpg
         content: >-
