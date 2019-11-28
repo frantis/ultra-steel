@@ -27,7 +27,7 @@ sections:
         title: 3D modelování a tisk
       - content: >-
           Kompletní řešení webové prezentace od návrhu struktury přes design po
-          zajištění hostingu a provozu webu. Sledujeme trendy v oblasti
+          zajištění hostingu a životního cyklu webu. Sledujeme trendy v oblasti
           webdesignu a naše weby jsou rychlé a bezpečné a přivedou Vám nové
           zákazníky.
         title: Tvorba statických webů
