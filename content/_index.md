@@ -3,9 +3,8 @@ title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
     content: >-
-      >People who are really serious about software should make their own
-      hardware.  
-
+      "People who are really serious about software should make their own
+      hardware."  
 
       -Alan Kay, 1982
     section_id: hero
