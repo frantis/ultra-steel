@@ -4,7 +4,10 @@ params:
   accent_color: pink
   color_scheme: light
   footer:
-    content: '&copy; 2019 Mileniálové s.r.o. '
+    content: >-
+      &copy; 2019 Mileniálové s.r.o. <br /> Firma je zapsaná v OR u Městského
+      soudu v Praze, oddíl C, vložka 313739 <br />IČ: 08167184 <br /> DIČ:
+      CZ08167184
     has_social: true
     links: []
   header:
