@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
     content: >-
@@ -62,7 +62,7 @@ sections:
     type: postsblock
   - component: contact_block.html
     section_id: contact
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Kontaktujte nás
     type: contactblock
 menu:
