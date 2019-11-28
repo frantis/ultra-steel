@@ -21,14 +21,15 @@ sections:
     section_id: services
     serviceslist:
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Design a výroba prototypů, produktový design, optimalizace, nebo tisk
+          Vašich souborů. Vyrobíme leccos, přesně dle Vašich požadavků na
+          funkční a vizuální parametry výrobku. Nabízíme i maloseriovou výrobu.
         title: 3D modelování a tisk
       - content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
+          Kompletní řešení webové prezentace od návrhu struktury přes design po
+          zajištění hostingu a provozu webu. Sledujeme trendy v oblasti
+          webdesignu a naše weby jsou rychlé a bezpečné a přivedou Vám nové
+          zákazníky.
         title: Tvorba statických webů
       - content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
