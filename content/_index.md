@@ -32,14 +32,16 @@ sections:
           zákazníky.
         title: Tvorba statických webů
       - content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Studie a vizualizace řešení interiérů. V případě komplexnějších
+          projektů máme k dispozici externě spolupracující architekty.
         title: Interiérový design
       - content: >-
-          Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
-          justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
-          lorem ipsum, non efficitur urna viverra et.
-        title: Service title
+          Na míru připravíme jakoukoli plošnou grafiku - pro použití na
+          obrazovkách i tisk. V případě tisku dokážeme zajistit dodání výrobku
+          na klíč, od letáků, bannerů a billboardů, po tisk obrazů na plátno.
+          Typografie, grafický design, corporate design a tiskové technologie
+          máme v malíčku.
+        title: Grafický design a příprava tiskových dat
     subtitle: An optional subtitle of the section
     title: Nabízené služby
     type: servicesblock
