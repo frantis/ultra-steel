@@ -1,7 +1,7 @@
 ---
 title: Hotové projekty
 subtitle: ''
-layout_style: tiles
+layout_style: mosaic
 menu:
   main:
     name: Hotové projekty
