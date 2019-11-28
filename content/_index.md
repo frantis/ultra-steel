@@ -3,7 +3,7 @@ title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
     content: >-
-      People who are really serious about software should make their own
+      >People who are really serious about software should make their own
       hardware.  
 
 
