@@ -2,11 +2,7 @@
 title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
-    content: >-
-      "People who are really serious about software should make their own
-      hardware."  
-
-      -Alan Kay, 1982
+    content: Lorem ipsum
     section_id: hero
     title: 'Dobrý den, jak Vám můžeme pomoci?'
     type: heroblock
