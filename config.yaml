@@ -2,7 +2,7 @@ title: Mileniálové
 baseURL: /
 params:
   accent_color: pink
-  color_scheme: dark
+  color_scheme: light
   footer:
     content: >-
       &copy; 2019 Mileniálové s.r.o. <br /> Firma je zapsaná v OR u Městského
