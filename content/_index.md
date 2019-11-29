@@ -2,9 +2,9 @@
 title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
-    content: 'Jsme ateliér, ne startup'
+    content: 'Nevěříme hardwaru, který jsme neprozkoumali'
     section_id: hero
-    title: 'Dobrý den, jak Vám můžeme pomoci?'
+    title: uwotm8
     type: heroblock
   - component: portfolio_block.html
     layout_style: tiles
