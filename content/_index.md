@@ -2,7 +2,7 @@
 title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
-    content: Lorem ipsum
+    content: 'Jsme ateliér, ne startup'
     section_id: hero
     title: 'Dobrý den, jak Vám můžeme pomoci?'
     type: heroblock
