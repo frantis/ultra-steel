@@ -1,7 +1,7 @@
 title: Mileniálové
 baseURL: /
 params:
-  accent_color: yellow
+  accent_color: violet
   color_scheme: dark
   footer:
     content: >-
