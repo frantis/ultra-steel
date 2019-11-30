@@ -1,5 +1,4 @@
 title: Mileniálové
-baseURL: /
 params:
   accent_color: pink
   color_scheme: light
@@ -17,12 +16,13 @@ disableKinds:
 DefaultContentLanguage: cs
 languages:
   cs:
+    baseURL: /cs
     params:
       header:
         has_nav: true
         title: Mileniálové s.r.o.
   en:
-    baseURL: /en/
+    baseURL: /en
     params:
       header:
         has_nav: true
