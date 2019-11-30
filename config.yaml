@@ -17,11 +17,15 @@ disableKinds:
 DefaultContentLanguage: cs
 languages:
   cs:
+    languageName: CZ
+    weight: 1
     params:
       header:
         has_nav: true
         title: Mileniálové s.r.o.
   en:
+    languageName: EN
+    weight: 2
     params:
       header:
         has_nav: true
