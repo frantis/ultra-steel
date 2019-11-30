@@ -1,4 +1,5 @@
 title: Mileniálové
+baseURL: /
 params:
   accent_color: pink
   color_scheme: light
