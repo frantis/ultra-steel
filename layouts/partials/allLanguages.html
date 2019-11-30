@@ -1,5 +1,5 @@
-<ul>
+<ul class="menu">
 {{ range $.Site.Home.AllTranslations }}
-<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+<li class="menuItem"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
 {{ end }}
 </ul>
