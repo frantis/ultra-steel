@@ -10,9 +10,6 @@ params:
       CZ08167184
     has_social: true
     links: []
-  header:
-    has_nav: true
-    title: Mileniálové s.r.o.
 disableKinds:
   - RSS
   - taxonomy
@@ -23,9 +20,16 @@ languages:
     params:
       header:
         has_nav: true
-        title: test cs
+        title: Mileniálové s.r.o.
   en:
     params:
       header:
+        has_nav: true
         title: test en
+      footer: 
+        content: >-
+          &copy; 2019 Mileniálové s.r.o. <br />
+          Company registration number (IČ): 08167184
+        has_social: true
+
   
