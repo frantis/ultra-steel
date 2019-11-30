@@ -17,3 +17,15 @@ disableKinds:
   - RSS
   - taxonomy
   - taxonomyTerm
+DefaultContentLanguage: cs
+languages:
+  cs:
+    params:
+      header:
+        has_nav: true
+        title: test cs
+  en:
+    params:
+      header:
+        title: test en
+  
