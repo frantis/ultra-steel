@@ -1,10 +1,10 @@
 ---
-title: O nás
+title: About us
 subtitle: 'Co, jak, proč a pro koho pracujeme'
 img_path: ''
 menu:
   main:
-    name: O nás
+    name: About us
     weight: 4
 layout: page
 ---

@@ -2,16 +2,16 @@
 title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
-    content: Tvoříme ve virtuálním i fyzickém světě
+    content: We create on both physical and digital plane
     section_id: hero
-    title: Co pro Vás můžeme vyrobit?
+    title: What can we make for you?
     type: heroblock
   - component: portfolio_block.html
     layout_style: tiles
     num_projects_displayed: 6
     section_id: latest-projects
     subtitle: ''
-    title: Dokončené projekty
+    title: Finished projects
     type: portfolioblock
     view_all_text: View All
     view_all_url: portfolio/index.html
@@ -41,25 +41,25 @@ sections:
           máme v malíčku.
         title: Grafický design a příprava tiskových dat
     subtitle: ''
-    title: Nabízené služby
+    title: Services offered
     type: servicesblock
   - actions:
-      - label: Navštívit blog
+      - label: Visit our blog
         url: blog/index.html
     component: posts_block.html
     num_posts_displayed: 2
     section_id: latest-posts
     subtitle: An optional subtitle of the section
-    title: Náš blog
+    title: Our blog
     type: postsblock
   - component: contact_block.html
     section_id: contact
     subtitle: ''
-    title: Kontaktujte nás
+    title: Contact us
     type: contactblock
 menu:
   main:
-    name: Domů
+    name: Home
     weight: 1
 layout: home
 ---
