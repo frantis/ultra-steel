@@ -1,5 +1,4 @@
 title: Mileniálové
-baseURL: /
 params:
   accent_color: pink
   color_scheme: light
@@ -17,6 +16,7 @@ disableKinds:
 DefaultContentLanguage: cs
 languages:
   cs:
+    baseURL: /
     params:
       header:
         has_nav: true
