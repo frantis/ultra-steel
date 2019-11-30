@@ -2,9 +2,9 @@
 title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
-    content: 'Nevěříme hardwaru, který jsme neprozkoumali'
+    content: Tvoříme ve virtuálním i fyzickém světě
     section_id: hero
-    title: uwotm8
+    title: Co pro Vás můžeme vyrobit?
     type: heroblock
   - component: portfolio_block.html
     layout_style: tiles
