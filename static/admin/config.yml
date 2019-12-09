@@ -208,10 +208,10 @@ collections:
             label: Avatar
             required: false
   - name: home
-    label: Home
+    label: Home CS
     files:
       - name: home
-        label: Home
+        label: Home CS
         file: content/_index.cs.md
         fields:
           - widget: string
@@ -585,11 +585,11 @@ collections:
             label: Layout
             required: true
             default: home
-  - name: home
+  - name: home_cs
     label: Home EN
     files:
-      - name: home
-        label: Home
+      - name: home_en 
+        label: Home EN
         file: content/_index.en.md
         fields:
           - widget: string
