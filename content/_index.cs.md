@@ -2,7 +2,7 @@
 title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
-    content: Tvoříme ve virtuálním i fyzickém světě
+    content: 'Jsme designový ateliér, tvoříme fyzické i digitální věci'
     section_id: hero
     title: Co pro Vás můžeme vyrobit?
     type: heroblock
