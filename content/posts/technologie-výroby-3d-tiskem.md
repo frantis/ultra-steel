@@ -4,7 +4,7 @@ date: 2019-12-16T16:20:48.149Z
 thumb_img_path: /images/barevny.jpg
 layout: post
 ---
-Proč používáme na většinu zakázek 3D tisk? Je to fantastická metoda, jak se poměrně snadno dostat od návrhu k výrobku. Máme poměrně dost zkušeností, takže víme, co funguje a co ne – a taky víme, co upravit, aby i složitý výrobek vyrobit šel.
+Proč používáme na většinu zakázek 3D tisk? Je to fantastická metoda, jak se poměrně snadno dostat od návrhu k výrobku. Máme poměrně dost zkušeností, takže víme, co funguje a co ne – a taky víme, co upravit, aby i složitý výrobek vytisknout šel.
 
 Jak 3D tisk funguje: tryska, která se pohybuje v ploše, nanáší tenkou vrstvu rozpuštěného plastu. V momentě, kdy dokončí celou vrstvu, posune se o vrstvu výš.
 
