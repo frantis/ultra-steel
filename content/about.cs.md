@@ -8,8 +8,6 @@ menu:
     weight: 4
 layout: page
 ---
->People who are really serious about software should make their own hardware. -Alan Kay, 1982
+> People who are really serious about software should make their own hardware. -Alan Kay, 1982
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-_Thank You for reading!_
+Máme background ve výzkumu a vývoji, řešení na míru jsou pro nás každodenním chlebem. Máme síť spolupracovníků zaměřených na specializovaná úzká témata. Preferujeme dlouhodobou spolupráci, ale pokud chcete vytisknout 20 sošek, redesign loga a tiskovin firmičky nebo kiosek do lobby, zvládneme to taky.
