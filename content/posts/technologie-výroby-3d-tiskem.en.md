@@ -1,14 +1,23 @@
 ---
-title: Technologie výroby 3D tiskem
+title: Manufacturing using 3D printing
 date: 2019-12-16T16:20:48.149Z
 thumb_img_path: /images/barevny.jpg
 layout: post
+excerpt: Why do we use 3D printing for most of our comissions?
 ---
-Proč používáme na většinu zakázek 3D tisk? Je to fantastická metoda, jak se poměrně snadno dostat od návrhu k výrobku. Máme poměrně dost zkušeností, takže víme, co funguje a co ne – a taky víme, co upravit, aby i složitý výrobek vytisknout šel.
+Why do we use 3D printing for most of our comissions? A designer can get a physical object based on their design in their hands in no time. This makes testing - a fundamental part of desing - a breeze. Thanks to our experience, we avoid rookie mistakes that slow down the whole process and we can make even complex models 3D print ready.
 
-> Jak 3D tisk funguje: tryska, která se pohybuje v ploše, nanáší tenkou vrstvu rozpuštěného plastu. V momentě, kdy dokončí celou vrstvu, posune se o vrstvu výš.
+> How 3D printing works: a nozzle that moves on a plane lays a thin layer of melted-down plastic. As soon as it finishes a single layer, it moves a layer above.
 
-3D tisk se hodí na prototypovou, kusovou, nebo omezenou malosériovou výrobu (pokud nejste borci z Průši, kteří vyrábí všechny svoje tiskárny 3D tiskem, a udělali jich už víc než 150 000). Je potřeba znát jeho specifika – a od toho jsme tu my. Typickou vlastností 3D tištěného výrobku je nestejnost v jednotlivých osách, které se zejména u funkčních dílů musí přizpůsobit způsob výroby. Tak alespoň základní parametry:
+3D printing is suitable for prototyping, piece production or small series production. One has to know its quirks and that's where we come in. A typical quality of a 3D printed product is an imparity in its axes.
+
+Switching colours between layers is simple. The image below shows a first black layer being laid on layers of white filament.
+
+![Changing the colour of filament between layers](/images/materialy_vrstvy.jpg "Changing the colour of filament between layers")
+
+Do you need a consultation with your model or start production? Contact us and we will get back to you.
+
+<!-- Typickou vlastností 3D tištěného výrobku je nestejnost v jednotlivých osách, které se zejména u funkčních dílů musí přizpůsobit způsob výroby. Tak alespoň základní parametry:
 
 * Rozlišení osy X a Y (vodorovné; dvě z os finálního výrobku): 0,25-0,8 mm
 * Rozlišení osy Z (vertikální osa při tisku, jedna z os hotového výrobku): 0,05-0,3 mm
@@ -18,3 +27,4 @@ Výrobek je mnohem pevnější v tahu v případě namáhání ve směru os X a 
 ![Změna barvy filamentu mezi vrstvami](/images/materialy_vrstvy.jpg "Změna barvy filamentu mezi vrstvami")
 
 Potřebujete konzultaci se svým modelem nebo zadat výrobu? Napište nám a domluvíme se.
+-->

@@ -6,4 +6,4 @@ menu:
     weight: 5
 layout: contact
 ---
-Děkujeme za Váš zájem o spolupráci. Prosím vyplňte formulář, nebo nás kontaktujte na adrese zakazky (at) milenialove.eu
+Thank you for your inquiries. Please fill in the contact form or send us an e-mail to zakazky (at) milenialove.eu
