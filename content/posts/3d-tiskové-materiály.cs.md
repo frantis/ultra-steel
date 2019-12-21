@@ -1,6 +1,6 @@
 ---
 title: 3D tiskové materiály
-subtitle: Jaké materiály používáme a proč?
+<!-- subtitle: Jaké materiály používáme a proč? -->
 date: 2019-12-16T14:51:42.212Z
 thumb_img_path: /images/materialy_spagety.jpg
 excerpt: Jaké materiály používáme a proč?

@@ -3,6 +3,7 @@ title: '3D tisk v praxi: nastavení výplně'
 date: 2019-12-17T14:37:10.210Z
 thumb_img_path: /images/infilly1.jpg
 layout: post
+excerpt: Trochu překvapivá informace může být, že většina 3D tištěného objektu je typicky vzduch.
 ---
 Trochu překvapivá informace může být, že většina 3D tištěného objektu je typicky vzduch. Pevná je pouze tenká "slupka", typicky 0,9 nebo 1,3 mm tlustá, vnitřek tvoří nějaký druh struktury. Čím větší hustota výplně je, tím vyšší je obecně pevnost výtisku, zároveň se ale logicky tiskne déle a dráž. Proto se pro objekty, které nejsou namáhány, používá výplň pouze kolem 15 procent vnitřního objemu.
 
