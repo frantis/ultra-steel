@@ -29,7 +29,7 @@ languages:
     params:
       header:
         has_nav: true
-        title: test en
+        title: Mileniálové s.r.o.
       footer: 
         content: >-
           &copy; 2019 Mileniálové s.r.o. <br />
