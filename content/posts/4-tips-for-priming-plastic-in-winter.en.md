@@ -4,13 +4,14 @@ date: 2020-01-06T08:43:01.083Z
 layout: post
 author: František
 ---
-Priming sprays are essential tools for finishing plastic. They unify the surface and reveal imperfections. But they can be tricky to operate in winter weather. Here are four tips we learned by trial and error so you can avoid speckles and uneven coat on your plastic. You can apply this to 3D printed objects, wargaming miniatures or model planes.
+Priming sprays are essential tools for finishing plastic. They unify the surface and reveal imperfections. But they can be tricky to operate in winter weather. Here are four tips we learned by trial and error so you can avoid speckles and uneven coat on your plastic.  
+You can apply this guide to 3D printed objects, wargaming miniatures or model planes.
 
 
 
 ## 1. Keep an eye out for low humidity day
 
-I hung a small analog hygrometer on my porch. I use it identify days with 60% humidity or lower. It is an inexpensive item that catches my eye every time I pass it. It is more accurate than data in weather apps. In my experience high humidity is the #1 culprit of bad coat of primer. Clumps and speckles form and it adds a texture defeating its purpose.
+I hung a small analog hygrometer on my porch. I use it identify days with 60% humidity or lower. It is an inexpensive item that provides more accurate data than weather apps. In my experience high humidity is the #1 culprit of bad coat of primer. Clumps and speckles form and it adds a texture defeating its purpose.
 
 ## 2. Keep the can warm
 
