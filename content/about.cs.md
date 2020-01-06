@@ -8,7 +8,7 @@ menu:
     weight: 4
 layout: page
 ---
-> People who are really serious about software should make their own hardware.  
+> Lidé, kteří to myslí se softwarem vážně, by měli vyvíjet vlastní hardware.  
 >-Alan Kay, 1982
 
 Máme background ve výzkumu a vývoji, řešení na míru jsou pro nás každodenním chlebem. Máme síť spolupracovníků v příbuzných profesích. Preferujeme dlouhodobou spolupráci, ale pokud chcete vytisknout 20 sošek, redesign loga a tiskovin firmičky nebo kiosek do lobby, zvládneme to taky.
