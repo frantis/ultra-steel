@@ -2,7 +2,7 @@
 title: Mileniálové s.r.o.
 sections:
   - component: hero_block.html
-    content: We create on both physical and digital goods
+    content: We create both physical and digital goods
     section_id: hero
     title: What can we make for you?
     type: heroblock
