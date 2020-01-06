@@ -19,27 +19,26 @@ sections:
     section_id: services
     serviceslist:
       - content: >-
-          Design a výroba prototypů, produktový design, optimalizace, nebo tisk
-          Vašich souborů. Vyrobíme leccos, přesně dle Vašich požadavků na
-          funkční a vizuální parametry výrobku. Nabízíme i maloseriovou výrobu.
-        title: 3D modelování a tisk
+          Design and prototype manufacturing, product design, optimisation, or
+          printing of your supplied models. We create exactly to your function
+          and visual requirements. We offer small series production.
+        title: 3D modeling and printing
       - content: >-
-          Kompletní řešení webové prezentace od návrhu struktury přes design po
-          zajištění hostingu a životního cyklu webu. Sledujeme trendy v oblasti
-          webdesignu a naše weby jsou rychlé a bezpečné a přivedou Vám nové
-          zákazníky.
-        title: Tvorba statických webů
+          A complete solution for your web presence from structure draft to
+          design to hosting and facilitating the website's life cycle. We follow
+          trends in webdesign and our websites are fast and secure and will
+          bring new customers to you.
+        title: Development of static webistes
       - content: >-
-          Studie a vizualizace řešení interiérů. V případě komplexnějších
-          projektů máme k dispozici externě spolupracující architekty.
-        title: Interiérový design
+          Studies and visualisations of interiors. For more complex undertakings
+          we have cooperated with external architects.
+        title: Interior design
       - content: >-
-          Na míru připravíme jakoukoli plošnou grafiku - pro použití na
-          obrazovkách i tisk. V případě tisku dokážeme zajistit dodání výrobku
-          na klíč, od letáků, bannerů a billboardů, po tisk obrazů na plátno.
-          Typografie, grafický design, corporate design a tiskové technologie
-          máme v malíčku.
-        title: Grafický design a příprava tiskových dat
+          We can prepare data for signage and digital signage. For print we can
+          accommodate the full process, including flyers, posters and billboards
+          or printing painting on canvas. We are natural with typography,
+          graphic design, corporate design and print technologies.
+        title: Graphic design and preparing data for print
     subtitle: ''
     title: Services offered
     type: servicesblock
