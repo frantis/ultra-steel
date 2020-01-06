@@ -49,7 +49,7 @@ sections:
     component: posts_block.html
     num_posts_displayed: 2
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: 'Píšeme o tom, co nás baví'
     title: Náš blog
     type: postsblock
   - component: contact_block.html
