@@ -2,6 +2,8 @@
 title: 4 tips for priming plastic in winter
 author: František
 date: 2020-01-06T08:43:01.083Z
+thumb_img_path: /images/img_1673.jpg
+content_img_path: /images/img_1673.jpg
 excerpt: 'Guide to priming 3D printed objects, wargaming miniatures or model planes.'
 layout: post
 ---
