@@ -2,15 +2,13 @@
 title: 4 tips for priming plastic in winter
 author: František
 date: 2020-01-06T08:43:01.083Z
-thumb_img_path: /images/img_1673.jpg
-content_img_path: /images/img_1673.jpg
+thumb_img_path: /images/dsc02658.jpg
+content_img_path: /images/dsc02658.jpg
 excerpt: 'Guide to priming 3D printed objects, wargaming miniatures or model planes.'
 layout: post
 ---
-Priming sprays are essential tools for finishing plastic. They unify the surface and reveal imperfections. But they can be tricky to operate in winter weather. Here are four tips we learned by trial and error so you can avoid speckles and uneven coat on your plastic.  
+Priming sprays are essential tools for finishing plastic. They unify the surface and reveal imperfections. But they can be tricky to operate in winter weather. Here are four tips we learned by trial and error so you can avoid speckles and uneven coat on your plastic.\
 You can apply this guide to 3D printed objects, wargaming miniatures or model planes.
-
-
 
 ## 1. Keep an eye out for a low humidity day
 
