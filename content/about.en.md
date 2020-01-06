@@ -1,6 +1,6 @@
 ---
 title: About us
-subtitle: 'Co, jak, proč a pro koho pracujeme'
+subtitle: ''
 img_path: ''
 menu:
   main:
