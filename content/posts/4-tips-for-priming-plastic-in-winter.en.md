@@ -12,11 +12,11 @@ You can apply this guide to 3D printed objects, wargaming miniatures or model pl
 
 
 
-## 1. Keep an eye out for low humidity day
+## 1. Keep an eye out for a low humidity day
 
-I hung a small analog hygrometer on my porch. I use it identify days with 60% humidity or lower. It is an inexpensive item that provides more accurate data than weather apps. In my experience high humidity is the #1 culprit of bad coat of primer. Clumps and speckles form and it adds a texture defeating its purpose.
+I hung a small analog hygrometer on my porch. I use it to identify days with 60% humidity or lower. It is an inexpensive item that provides more accurate data than weather apps. In my experience, high humidity is the #1 culprit of bad coat of primer. If you ever had you primer create texture, clumps or speckles, chances are the humidity was too high.
 
-## 2. Keep the can warm
+## 2. Warm the can
 
 The temperature of the spray can is more important than the one of air. Rubbing it with your hands so it approaches your body temperature is good enough. If you don't feel like furiously rubbing the can, you can always put it in a pot of warm water. Avoid contact with anything extremely hot. (Hey, I warned ya)
 
