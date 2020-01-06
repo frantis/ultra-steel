@@ -8,7 +8,7 @@ collections:
     label: Global Site Config
     files:
       - name: config
-        label: Global Site Config
+        label: Global Site Config NEŠAHAT NEBO TI URVU KOULE
         file: config.yaml
         fields:
           - widget: string
