@@ -975,11 +975,6 @@ collections:
             label: Title
             required: true
             hint: The title of the page.
-          - widget: string
-            name: author
-            label: Author
-            required: false
-            hint: Who is writing this?
           - widget: object
             name: menu
             label: Blog Menus
