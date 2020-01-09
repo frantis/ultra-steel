@@ -1,5 +1,7 @@
-<ul>
-{{ range .Translations }}
-<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-{{ end }}
-</ul>
+<div class="site-nav-inside">
+	<ul>
+	{{ range .Translations }}
+	<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+	{{ end }}
+	</ul>
+</div>
