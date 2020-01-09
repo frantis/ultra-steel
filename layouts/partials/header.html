@@ -10,9 +10,9 @@
         </p><!-- .site-logo -->
         {{ end }}
         {{ if or (eq .Params.layout "home") (eq .Params.layout "blog") }}
-        <h1 class="site-title"><a href='{{ .Site.BaseURL }}'>{{ .Site.Params.header.title }}</a></h1>
+        <h1 class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></h1>
         {{ else }}
-        <p class="site-title"><a href='{{ .Site.BaseURL }}'>{{ .Site.Params.header.title }}</a></p>
+        <p class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></p>
         {{ end }}
       </div><!-- .site-branding -->
       {{ if and .Site.Menus.main .Site.Params.header.has_nav }}
