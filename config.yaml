@@ -17,7 +17,6 @@ disableKinds:
 DefaultContentLanguage: cs
 languages:
   cs:
-    baseURL: /
     languageName: CZ
     weight: 1
     params:
@@ -25,7 +24,6 @@ languages:
         has_nav: true
         title: Mileniálové s.r.o.
   en:
-    baseURL: https://milenialove.eu/en
     languageName: EN
     weight: 2
     params:
