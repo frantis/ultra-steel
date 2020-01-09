@@ -1,0 +1,15 @@
+#Contact form
+- id: contact-user-name-label
+  translation: Jméno
+- id: contact-user-name-hint
+  translation: Napište svoje jméno
+- id: contact-user-email-label
+  translation: E-mail
+- id: contact-user-email-hint
+  translation: Napište svoji e-mailovou adresu
+- id: contact-message-label
+  translation: Vaše zpráva
+- id: contact-message-hint
+  translation: Zanechte svoji zprávu
+- id: contact-submit-button
+  translation: Odeslat zprávu

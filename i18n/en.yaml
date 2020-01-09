@@ -1,0 +1,15 @@
+#Contact form
+- id: contact-user-name-label
+  translation: Your name
+- id: contact-user-name-hint
+  translation: Write your name
+- id: contact-user-email-label
+  translation: E-mail
+- id: contact-user-email-hint
+  translation: Write your e-mail address
+- id: contact-message-label
+  translation: Your message
+- id: contact-message-hint
+  translation: Leave your message here
+- id: contact-submit-button
+  translation: Send message
