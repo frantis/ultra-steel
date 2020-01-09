@@ -4,15 +4,15 @@
       <div class="site-branding">
         {{ if .Site.Params.header.logo_img }}
         <p class="site-logo">
-          <a href="{{ "/" | relURL }}">
+          <a href="{{ .Home.RelPermalink }}">
             <img src="{{ .Site.Params.header.logo_img | relURL }}" alt="Logo" />
           </a>
         </p><!-- .site-logo -->
         {{ end }}
         {{ if or (eq .Params.layout "home") (eq .Params.layout "blog") }}
-        <h1 class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></h1>
+        <h1 class="site-title"><a href='{{ .Home.RelPermalink }}'>{{ .Site.Params.header.title }}</a></h1>
         {{ else }}
-        <p class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></p>
+        <p class="site-title"><a href='{{ .Home.RelPermalink }}'>{{ .Site.Params.header.title }}</a></p>
         {{ end }}
       </div><!-- .site-branding -->
       {{ if and .Site.Menus.main .Site.Params.header.has_nav }}
