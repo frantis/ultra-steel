@@ -12,7 +12,7 @@ You can apply this guide to 3D printed objects, wargaming miniatures or model pl
 
 ## 1. Keep an eye out for a low humidity day
 
-I hung a small analog hygrometer on my porch. I am looking for days with 60% humidity or lower. It is an inexpensive item that provides more accurate data than weather apps. In my experience, high humidity is the #1 culprit of bad coat of primer. If you ever had you primer create texture, clumps or speckles, chances are the humidity was too high.
+I hung a small analog hygrometer on my porch. I am looking for days with 60% humidity or lower. It is an inexpensive item that provides more accurate data than weather apps. In my experience, high humidity is the #1 culprit of bad coat of primer. If you ever had your primer create texture, clumps or speckles, chances are the humidity was too high.
 
 ## 2. Warm the can
 
