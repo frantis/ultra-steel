@@ -1445,12 +1445,12 @@ collections:
         required: true
       - widget: image
         name: thumb_img_path
-        label: Featured Image
+        label: Náhled
         required: false
         hint: The image shown in the blog feed.
       - widget: image
         name: content_img_path
-        label: Alternative Featured Image
+        label: Plný obrázek
         required: false
         hint: The image shown in the single post.
       - widget: string
@@ -1531,12 +1531,12 @@ collections:
         required: true
       - widget: image
         name: thumb_img_path
-        label: Featured Image
+        label: Náhled
         required: false
         hint: The image shown in the project page.
       - widget: image
         name: content_img_path
-        label: Alternative Featured Image
+        label: Plný obrázek
         required: false
         hint: The image shown in the single project.
       - widget: object
