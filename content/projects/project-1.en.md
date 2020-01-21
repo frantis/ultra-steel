@@ -2,8 +2,8 @@
 title: Stánek pro GreenDoors
 subtitle: klientovi na míru
 date: '2019-05-10'
-thumb_img_path: /images/img_20190430_152425-crop.png
-content_img_path: ''
+thumb_img_path: /images/thumb-stanek.jp2
+content_img_path: /images/thumb-stanek.jp2
 layout: project
 ---
 ![Stánek Green doors](/images/img_20190430_152425.jpg "Stánek na čarodějnicích 2019 na Pankráci")
