@@ -2,8 +2,8 @@
 title: Stojánky
 subtitle: Propagační stojánky pro platformu Spaceflow
 date: '2019-04-30'
-thumb_img_path: /images/thumb-stojanky.jp2
-content_img_path: /images/thumb-stojanky.jp2
+thumb_img_path: /images/thumb-stojanky.jpg
+content_img_path: /images/thumb-stojanky.jpg
 layout: project
 ---
 Musíte být vidět.
